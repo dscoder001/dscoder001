@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN284MnZkc28zd3MzOWJwYTNnanNheTFubnU0cTF3ZW9zNGZka2tnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Hi 👋, I'm Dhiman Saha" style="width: 80%;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN284MnZkc28zd3MzOWJwYTNnanNheTFubnU0cTF3ZW9zNGZka2tnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Hi 👋, I'm Dhiman Saha" style="width: 40%;">
 </div>
 
 <div align="center">
