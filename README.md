@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dscoder001/dscoder001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I’m Dhiman Saha 👋
+
+
+
+
+
 <div align="center">
-  <img src="hero.png" alt="Hi 👋, I'm Dhiman Saha" style="width: 100%; ">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN284MnZkc28zd3MzOWJwYTNnanNheTFubnU0cTF3ZW9zNGZka2tnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Hi 👋, I'm Dhiman Saha" style="width: 80%;">
 </div>
+
+<div align="center">
+  <h2>Hello, I’m Dhiman Saha 👋</h2>
+</div>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -55,10 +64,16 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,java,c" />
     <h4>Machine Learning Technologies:</h4>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <h4>Data Analysis Tools:</h4>
-    <img src="https://skillicons.dev/icons?i=pandas,scikit" />
-    <h4>Web Development & Developer Tools:</h4>
+     <h4>Web Development & Developer Tools:</h4>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode" />
+    <h4>Data Analysis Tools:</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
+      </p>
+
+    
+    
   </a>
 </p>
 
@@ -72,4 +87,7 @@ Engineered a conversational chatbot with Gradio and OpenAI, reducing customer se
 ### 3. [News Summarizer](https://github.com/dscoder001/Summerizer-NLP-)
 Created a summarizer using the Pegasus model, achieving a Rouge metric score of 0.26.
 
-<h3 align="center">Let's connect and build data-driven solutions together!</h3>
+<h3 align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; background-color: #f9f9f9; color: #333;">
+  🤝 Let's Connect and Build Data-Driven Solutions Together! 🚀
+</h3>
+<img align="center" src="https://github.com/Mandy-shr/Mandy-shr/blob/output/github-contribution-grid-snake.svg" />
