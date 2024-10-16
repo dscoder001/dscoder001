@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3> 🙋‍♂️ A Brief Introduction:</h3>
 <ol>
-  <li>👨🏻‍💻 Passionate 3rd-year Computer Science student at Birla Institute of Technology, Mesra.</li>
+  <li>👨🏻‍💻 Passionate Computer Science student at Birla Institute of Technology, Mesra.</li>
   <li>🚀 Experience with real-world machine learning problems in customer attention and churn prediction.</li>
   <li>💡 Skilled in NLP and feature engineering, working on innovative data-driven projects.</li>
   <li>🛠️ Delivered solutions that increased prediction accuracy by 20% and improved model performance above 80%.</li>
