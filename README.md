@@ -64,12 +64,12 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,java,c" />
     <h4>Machine Learning Technologies:</h4>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
      <h4>Web Development & Developer Tools:</h4>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode" />
     <h4>Data Analysis Tools:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn Logo" width="50" height="50"/>
       </p>
 
     
