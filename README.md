@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     <h4>Data Analysis Tools:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn Logo" width="50" height="50"/>
       </p>
 
     
