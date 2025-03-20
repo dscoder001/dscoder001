@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ### 1. [Sentiment Analysis](https://github.com/dscoder001/SENTIMENT-ANALYSIS)
 Developed an NLP model to analyze restaurant reviews and achieve an 82.73% accuracy rate using Vectorizer pipelines and a TfidfVectorizer-SVC combination.
 
-### 2. [OrderBot](https://github.com/dscoder001/OderBot)
+### 2. [QApplication](https://github.com/dscoder001/QApplication)
 Ask Your Documents Anything! A RAG based model where we,🚀 Upload documents, ask questions, and get instant answers with cutting-edge NLP and vector search.
 
 ### 3. [News Summarizer](https://github.com/dscoder001/Summerizer-NLP-)
