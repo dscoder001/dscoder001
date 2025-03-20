@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <h4>Languages:</h4>
     <img src="https://skillicons.dev/icons?i=python,java,c" />
     <h4>Machine Learning Technologies:</h4>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="50" height="50"/>
      <h4>Web Development & Developer Tools:</h4>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode" />
