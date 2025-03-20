@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 Developed an NLP model to analyze restaurant reviews and achieve an 82.73% accuracy rate using Vectorizer pipelines and a TfidfVectorizer-SVC combination.
 
 ### 2. [OrderBot](https://github.com/dscoder001/OderBot)
-Engineered a conversational chatbot with Gradio and OpenAI, reducing customer service inquiries by 40% and improving order processing efficiency by 35%.
+Ask Your Documents Anything! A RAG based model where we,🚀 Upload documents, ask questions, and get instant answers with cutting-edge NLP and vector search.
 
 ### 3. [News Summarizer](https://github.com/dscoder001/Summerizer-NLP-)
 Created a summarizer using the Pegasus model, achieving a Rouge metric score of 0.26.
